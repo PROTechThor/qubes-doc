@@ -88,25 +88,6 @@ Additionally, terminology is used inconsistently.
 
 **Mentor**: [Marek Marczykowski-Górecki][team]
 
-### Consolidate troubleshooting guides
-
-**Project**: Consolidate troubleshooting guides
-
-**Brief explanation**: Troubleshooting guides are scattered across many pages and sometimes incomplete, leading to repeatedly posting the same instruction over and over when helping users to diagnose problems.
-This could be helped by writing consolidated guide with with a clear list of symptom-action layout.
-
-**Expected results**:
-
-- Review existing [troubleshooting guides](https://www.qubes-os.org/doc/#troubleshooting)
-- Review [issues][doc-issues] containing common troubleshooting steps (checking specific logs etc)
-- Propose updated, consolidated troubleshooting documentation, including its layout
-
-**Knowledge prerequisite**:
-
-- [Markdown][markdown]
-
-**Mentor**: [Marek Marczykowski-Górecki][team]
-
 ### Installation Guide for Qubes OS on Virtual Machines
 
 **Project**: Installation Guide for Qubes OS on Virtual Machines.
